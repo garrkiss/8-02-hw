@@ -13,6 +13,15 @@
 
 ![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.22.10.png)
 
+![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.22.18.png)
+
+
+![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.20.15.png)
+
+![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.20.27.png)
+
+![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.21.10.png)
+
 ### Задание 2
 ### Что нужно сделать:
 
@@ -24,7 +33,9 @@
 
 ### Решение 2
 
-[Ссылка на коммит](https://github.com/garrkiss/homework-github/commit/e7a729b06f2aa6fb966b9e74f49a9613922f0233)
+![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.34.06.png)
+
+![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.33.50.png)
 
 
 ### Задание 3
@@ -39,4 +50,9 @@
 
 ### Решение 3
 
-[Ссылка на граф](https://github.com/garrkiss/homework-github/network)
+![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.42.05.png)
+
+![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.41.51.png)
+
+
+![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.41.35.png)
