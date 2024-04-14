@@ -11,7 +11,7 @@
 
 ### Решение 1
 
-[Ссылка на коммит](https://github.com/garrkiss/homework-github/commit/922d1601ba3f9142ee95f550a85801f271bee575)
+![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.22.10.png)
 
 ### Задание 2
 ### Что нужно сделать:
